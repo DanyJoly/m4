@@ -1,0 +1,7 @@
+rm -rf input
+mkdir input
+curl --output input/M4DataSet.zip https://www.m4.unic.ac.cy/wp-content/uploads/2017/12/M4DataSet.zip 
+curl --output input/M-test-set.zip https://www.m4.unic.ac.cy/wp-content/uploads/2018/07/M-test-set.zip 
+unzip input/M4DataSet.zip -d input
+unzip input/M-test-set.zip -d input
+
