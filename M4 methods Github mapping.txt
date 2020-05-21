@@ -1,0 +1,45 @@
+Methods documented in Github here: https://github.com/Mcompetitions/M4-methods
+
+1th place: *
+    Folder: 118 - slaweks17
+    Authors: Smyl, S.
+    
+2nd place: *S
+    Folder: 245 - pmontman
+    Authors: Montero-Manso, P., Talagala, T., Hyndman, R., J. & Athanasopoulos, G.
+    Github: https://github.com/robjhyndman/M4metalearning
+    
+3rd place: 
+    Folder: 237 - prologistica
+    Authors: Pawlikowski, M., Chorowska, A. & Yanchuk, O.
+    
+4th place:
+    Folder: 072 - forecaster18
+    Authors: Jaganathan, S. & Prakash, P.
+
+5th place: *S
+    Folder: 069 - jafiorucci
+    Authors: Fiorucci, J. A. & Louzada, F.
+
+6th place: *S
+    Folder: 036 - fotpetr: 
+    Authors: Petropoulos, F. & Svetunkov, I.
+    
+7th Place: 
+    Folder: 078 - dashaub
+    Authors: Shaub, D.
+    
+11th place: 
+    Folder: 005 - vangspiliot
+    Authors: Spiliotis, E. & Assimakopoulos, V.
+    
+* also scored well on the MSIS score - predicted 95% interval.
+S simple enough
+
+23rd place (Best ML)
+    Folder: 211 - btrotta
+    Authors: Trotta, B.
+    
+37th place (2nd Best ML)
+    Folder: 043 - gbonte
+    Authors: Bontempi, G.
